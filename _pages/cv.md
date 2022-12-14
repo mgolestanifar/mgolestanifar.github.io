@@ -11,31 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Physics- Atomics and Moleculare, Yazd University, 2008-2014
+* M.S. Physics- Optics and Laser, Yazd University, 2021-Current
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Experimental Technisian In Nano Structured Coating Center in Yazd, 2014-2018
+  * Payam-e-noor University
+  * Supervisor: Professor A. Kazempour
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* The Head of Pouya Fekran Company, 2009-2018
+
+* Experimental Technisian in Laser Spectroscopy Research Laberatory (LSRL), 2019-2020
+  * Yazd University
+  * Supervisor: Professor M. A. Haddad
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+: , ,  : . : .
+* Operation Systems
+  * Macintosh IOS, Windows, Linux
+* Programming Languages
+  * Matlab, Maple, Mathematica, python
+* Software
+  * MS Office (Word, Excel, PowerPoint, ...), Photoshop, OriginLab, Latex, End Note, Material Studio, Quantum ESPRESSO
 Publications
 ======
   <ul>{% for post in site.publications %}
