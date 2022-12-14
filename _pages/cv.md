@@ -28,12 +28,24 @@ Work experience
     
 Skills
 ======
-* Operation Systems
+* Operation Systems:
   * Macintosh IOS, Windows, Linux
-* Programming Languages
+* Programming Languages:
   * Matlab, Maple, Mathematica, python
-* Software
+* Software"
   * MS Office (Word, Excel, PowerPoint, ...), Photoshop, OriginLab, Latex, End Note, Material Studio, Quantum ESPRESSO
+* Fabrication:
+  * Laser Ablation Synthesis in Liquid Solution
+  * Pulsed Laser Deposition (PLD)
+* Analyzes:
+  * UV- Visible spectroscopy
+  * FTIR
+  * X-ray Diffraction
+  * (FE)SEM
+  * AFM
+  * Raman
+  * TEM
+
 Publications
 ======
   <ul>{% for post in site.publications %}
