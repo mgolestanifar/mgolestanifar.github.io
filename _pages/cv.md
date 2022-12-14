@@ -34,7 +34,6 @@ Skills
   * Matlab, Maple, Mathematica, python
 * Software
   * MS Office (Word, Excel, PowerPoint, ...), Photoshop, OriginLab, Latex, End Note, Material Studio, Quantum ESPRESSO
-
 Publications
 ======
   <ul>{% for post in site.publications %}
