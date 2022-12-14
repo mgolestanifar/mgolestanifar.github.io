@@ -28,13 +28,13 @@ Work experience
     
 Skills
 ======
-: , ,  : . : .
 * Operation Systems
   * Macintosh IOS, Windows, Linux
 * Programming Languages
   * Matlab, Maple, Mathematica, python
 * Software
   * MS Office (Word, Excel, PowerPoint, ...), Photoshop, OriginLab, Latex, End Note, Material Studio, Quantum ESPRESSO
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Experimental Services
