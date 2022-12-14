@@ -53,18 +53,3 @@ Publications
   * Investigating time delay and phase velocity in EEG signals of epileptic patients using time-frequency analysis.
   * Effect of polarization force on the Jeans instability of collisional dusty plasmas with nonextensive distribution. 
 
-Lecture Participation:
-======
-* “X-Ray in a Quantum World: from cavity QED to quantum imaging” By: Prof. Ralf Rohlsbeger in 1.12.2021 in Max Planck Institute of Technology.
-* “Simulation Methods For Optical Systems” By: Prof. Norbert in 24.11.2021 in Max Planck Institute of Technology.
-* “Distribution Fiber Optical Sensors” By: Prof. Benhard in 17.11.2021 in Max Planck Institute of Technology.
-* “Electronics with Ultrashort Light Fields” By: Prof. Norbert in 24.11.2021 in Max Planck Institute of Technology.
-* “A few application of Photonics Crystal fibers, from monitoring chemistry to ggenerating nonclassical light” By: Prof. Nicolas Joly in 03.11.2021 in Max Planck Institute of Technology.
-* “Quantum Comunication” By: Dr. Christoph Marquardt in 20.10.2021 in Max Planck Institute of Technology.
-* "Semiconducting 2D-Materials: Properties and Application Potential"  By: Dr. Eilenbergers’ lecture in Max Planck institute of Technology.
-* “Nonlinear Inferometry in Quantum Optics” By Prof. Maria Chekhovas in Max Planck Institute of Technology.
-* "Quantum and nano-optics with tunable microcavities"  By: Prof. Dr. Hungers in Max Planck University.
-
-Teaching
-======
-* Farzanegan high School Physics Teacher, 2018-2020
