@@ -52,4 +52,3 @@ Publications
   * Studying the optical nonlinear features of Graphene Oxide (GO) using Spatial Self-Phase Modulation (SSPM).
   * Investigating time delay and phase velocity in EEG signals of epileptic patients using time-frequency analysis.
   * Effect of polarization force on the Jeans instability of collisional dusty plasmas with nonextensive distribution. 
-
